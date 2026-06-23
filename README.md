@@ -1,3 +1,4 @@
+<img width="982" height="730" alt="Screenshot 2026-06-23 190755" src="https://github.com/user-attachments/assets/e72da93e-d725-4a61-98ab-3cdc032615a7" />
 Working is similar to Angela Yu's Turtle Crossing game, but several major changes were made 
 to improve user experience. 
 
